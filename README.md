@@ -1,5 +1,11 @@
 # MuscleAndStrength_SCRAPING
 
+
+Selenium.Support  4.21.0
+Selenium.WbDriver 4.21.0
+
+Kitabxanalarindan Istifade Olunub
+
 Bu scraping proyekti sayesinde idman mehsullarinin datalarini(Name,Description,ImageUrl,Price) deyerlerini elde eliye bilirik.
 Yalniz Brend yeni store daxil oldugumuz zaman acilan seifede isleyir.Program.cs icerisinde Proguctlarin deyerlerini ekrana cixarib gostermisem.
 Programin Isini Bitirmesi Biraz vaxt ala biler Normaldir,Gozleyin Tam isi bitene geder.
