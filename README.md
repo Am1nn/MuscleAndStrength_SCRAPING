@@ -2,7 +2,7 @@
 
 
 Selenium.Support  4.21.0
-Selenium.WbDriver 4.21.0
+Selenium.WebDriver 4.21.0
 
 Kitabxanalarindan Istifade Olunub
 
